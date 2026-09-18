@@ -1,0 +1,23 @@
+# ---- Build outputs / caches ----
+.pio/
+build/
+build_idf/
+build_idf_cache_bad_*/
+
+# ---- ESP-IDF generated sdkconfig (keep sdkconfig.defaults) ----
+sdkconfig
+sdkconfig.old
+sdkconfig.seeed-*
+
+# ---- ESP component manager downloaded sources ----
+managed_components/
+
+# ---- Incomplete downloads ----
+.esp-dl.incomplete/
+
+# ---- IDE / editor ----
+.vscode/
+
+# ---- OS files ----
+Thumbs.db
+.DS_Store

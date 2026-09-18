@@ -1,0 +1,5 @@
+&usart1 {
+	/* XIAO D6=PA9/TX, D7=PA10/RX. */
+	current-speed = <115200>;
+	status = "okay";
+};
