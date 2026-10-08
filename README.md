@@ -218,7 +218,7 @@ Flags: bit 0 `CENTER`, bit 1 `AUTO`, bit 2 `FACE_VALID`, bit 3 `CAL`.
 
 ## License
 
-No repository-level license has been selected. Until a root `LICENSE` is added, normal copyright law applies to original project code. Third-party components and models retain their own licenses. Add a project license before inviting reuse or contributions.
+The project's original code is licensed under the [MIT License](LICENSE). Third-party components and models retain their own licenses.
 
 ## Acknowledgements
 
